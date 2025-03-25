@@ -67,5 +67,5 @@ jobs:
 
     - name: Run tests
       run: |
-        cd YourTestProject
+        cd UnitTest_CI_CD.csproj
         dotnet test --no-build --verbosity normal
