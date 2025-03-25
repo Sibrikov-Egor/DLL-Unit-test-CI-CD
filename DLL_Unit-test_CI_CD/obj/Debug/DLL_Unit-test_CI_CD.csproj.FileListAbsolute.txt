@@ -1,0 +1,6 @@
+C:\Users\Егор\Desktop\DLL_Unit-test_CI_CD\DLL_Unit-test_CI_CD\bin\Debug\DLL_Unit-test_CI_CD.dll
+C:\Users\Егор\Desktop\DLL_Unit-test_CI_CD\DLL_Unit-test_CI_CD\bin\Debug\DLL_Unit-test_CI_CD.pdb
+C:\Users\Егор\Desktop\DLL_Unit-test_CI_CD\DLL_Unit-test_CI_CD\obj\Debug\DLL_Unit-test_CI_CD.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\DLL_Unit-test_CI_CD\DLL_Unit-test_CI_CD\obj\Debug\DLL_Unit-test_CI_CD.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\DLL_Unit-test_CI_CD\DLL_Unit-test_CI_CD\obj\Debug\DLL_Unit-test_CI_CD.dll
+C:\Users\Егор\Desktop\DLL_Unit-test_CI_CD\DLL_Unit-test_CI_CD\obj\Debug\DLL_Unit-test_CI_CD.pdb
